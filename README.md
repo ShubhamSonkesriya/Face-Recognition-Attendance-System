@@ -15,5 +15,5 @@ HOW TO USE:
 6. Suppose today is 4th of january then the attendance will be marked in the 4th column of the '1.xlsx' file.
 
 
-**Updates coming soon..
+**Future updates..
 Adding google spreadsheet for easy multiple access.
