@@ -2,7 +2,7 @@
 A simple python script that recognises faces and mark attendance for the recognised faces in an excel sheet.
 You need following libraries pre-installed on your system:
 1.face_recognition
-2.cv2
+2.Opencv
 3.openpyxl
 4.datetime
 
